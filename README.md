@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Brandon Estrada!
+- 👋 Hi, my name is Brandon Estrada!
 - 👀 I’m interested in full stack development, machine learning, and ai!
 - 🌱 I’m currently learning MERN stack and python!
 - 📫 You can reach me at Brandon.Estrada@utdallas.edu!
