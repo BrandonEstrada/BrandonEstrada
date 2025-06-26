@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Brandon Estrada!
-- 👀 I’m interested in full stack development, machine learning, and AI!
-- 🌱 I’m currently learning MERN stack and python!
-- 📫 You can reach me at Brandon.Estrada@utdallas.edu!
+- 👀 I’m a currently a backend software engineer!
+- 🌱 I'm currently learning about AI agents!
+- 📫 You can reach me at BrandoniEstrada@gmail.com!
 
 <!---
 BrandonEstrada/BrandonEstrada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
