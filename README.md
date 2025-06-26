@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Brandon Estrada!
-- 👀 I’m a currently a backend software engineer!
+- 👀 I’m a backend software engineer!
 - 🌱 I'm currently learning about AI agents!
 - 📫 You can reach me at BrandoniEstrada@gmail.com!
 
